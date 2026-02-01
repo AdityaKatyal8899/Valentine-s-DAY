@@ -25,7 +25,7 @@ export function SuccessPage({ name }: SuccessPageProps) {
             <DateTimeInfo />
 
             {/* Developer Notes */}
-            <div className="space-y-3 mt-6 sm:mt-8">
+            {/* <div className="space-y-3 mt-6 sm:mt-8">
               <div className="particle-effect p-2.5 sm:p-3 bg-blue-50 rounded-lg border-2 border-blue-200">
                 <p className="text-[10px] sm:text-xs text-blue-600 leading-relaxed">
                   🎊 <strong>Particle Effect:</strong> Confetti and hearts triggered on component mount using canvas-confetti. Full-screen overlay with pointer-events disabled.
@@ -37,7 +37,7 @@ export function SuccessPage({ name }: SuccessPageProps) {
                   🔊 <strong>Sound Effect:</strong> Play cute pop/celebration sound on page load (requires user interaction for browser autoplay policy).
                 </p>
               </div>
-            </div>
+            </div> */}
           </MessageCard>
         </ContentWrapper>
       </div>

@@ -22,7 +22,7 @@ export function GifCard() {
       className="gif-section bg-white/80 backdrop-blur-sm rounded-2xl sm:rounded-3xl p-4 sm:p-6 md:p-8 shadow-2xl w-full"
     >
       <ImageWithFallback
-        src="https://images.unsplash.com/photo-1649297315673-873057ccc137?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjdXRlJTIwcm9tYW50aWMlMjBjYXJ0b29uJTIwY291cGxlfGVufDF8fHx8MTc2OTkzMTkyNnww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+        src="https://media.istockphoto.com/id/626845368/photo/gentoo-penguin-standing-on-an-ice-floe-in-antarctica.webp?a=1&b=1&s=612x612&w=0&k=20&c=wLPT-74h_fhBw2iC29EgZxWguPMXkD2e2uk3DPqymi4="
         alt="Romantic couple illustration"
         className="w-full aspect-square object-cover rounded-xl sm:rounded-2xl max-w-[280px] sm:max-w-[320px] md:max-w-[380px] mx-auto"
       />

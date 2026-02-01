@@ -49,11 +49,11 @@ export function NameInputPage({ onContinue }: NameInputPageProps) {
             />
 
             {/* Developer Note */}
-            <div className="developer-note mt-6 p-3 bg-blue-50 rounded-lg border-2 border-blue-200">
+            {/* <div className="developer-note mt-6 p-3 bg-blue-50 rounded-lg border-2 border-blue-200">
               <p className="text-[10px] sm:text-xs text-blue-600 leading-relaxed text-center">
                 💡 <strong>Dev Note:</strong> Name stored using React state and passed down as props. Can be refactored to use Context API for larger apps.
               </p>
-            </div>
+            </div> */}
           </motion.div>
         </ContentWrapper>
       </div>

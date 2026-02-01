@@ -20,9 +20,9 @@ export function NoButton({ onHover, isRepositioned, position }: NoButtonProps) {
           ? { 
               top: `${position.top}px`, 
               left: `${position.left}px`,
-              minHeight: '44px'
+              minHeight: '40px'
             }
-          : { minHeight: '44px' }
+          : { minHeight: '40px' }
       }
       onClick={(e) => e.preventDefault()}
       whileHover={!isRepositioned ? { scale: 1.02 } : {}}

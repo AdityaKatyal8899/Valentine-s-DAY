@@ -15,7 +15,7 @@ export function DateTimeInfo() {
           <div className="flex-1 min-w-0">
             <span className="font-semibold text-rose-600 text-sm sm:text-base md:text-lg block sm:inline">Date:</span>
             <span className="ml-0 sm:ml-2 text-gray-600 italic text-sm sm:text-base md:text-lg block sm:inline break-words">
-              To be decided ✨
+              1/2/26 ✨
             </span>
           </div>
         </div>
@@ -25,7 +25,7 @@ export function DateTimeInfo() {
           <div className="flex-1 min-w-0">
             <span className="font-semibold text-rose-600 text-sm sm:text-base md:text-lg block sm:inline">Time:</span>
             <span className="ml-0 sm:ml-2 text-gray-600 italic text-sm sm:text-base md:text-lg block sm:inline break-words">
-              To be decided ✨
+            Text me! ..✨
             </span>
           </div>
         </div>

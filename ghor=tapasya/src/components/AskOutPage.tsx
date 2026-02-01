@@ -56,11 +56,11 @@ export function AskOutPage({ onYesClick, name }: AskOutPageProps) {
           </ButtonArea>
 
           {/* Developer Note */}
-          <div className="developer-note mt-6 sm:mt-8 p-3 sm:p-4 bg-white/60 backdrop-blur-sm rounded-lg max-w-md w-full">
+          {/* <div className="developer-note mt-6 sm:mt-8 p-3 sm:p-4 bg-white/60 backdrop-blur-sm rounded-lg max-w-md w-full">
             <p className="text-xs sm:text-sm text-gray-600 italic text-center leading-relaxed">
-              💡 <strong>Dev Note:</strong> NO button uses React state to randomly reposition within safe viewport bounds. Detects device interaction using both onMouseEnter (desktop) and onTouchStart (mobile). Always non-clickable.
+              💡 <strong>/strong> 
             </p>
-          </div>
+          </div> */}
         </ContentWrapper>
       </div>
     </BackgroundLayer>
