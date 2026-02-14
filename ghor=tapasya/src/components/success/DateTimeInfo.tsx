@@ -15,7 +15,7 @@ export function DateTimeInfo() {
           <div className="flex-1 min-w-0">
             <span className="font-semibold text-rose-600 text-sm sm:text-base md:text-lg block sm:inline">Date:</span>
             <span className="ml-0 sm:ml-2 text-gray-600 italic text-sm sm:text-base md:text-lg block sm:inline break-words">
-              1/2/26 ✨
+              15/2/26 or 16/2/26, ASAP ✨
             </span>
           </div>
         </div>
