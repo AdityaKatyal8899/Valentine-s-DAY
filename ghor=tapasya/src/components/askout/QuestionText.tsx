@@ -18,7 +18,7 @@ export function QuestionText({ name }: QuestionTextProps) {
           <>
             Hey {name} 💕
             <br />
-            Momos?
+            Will you be my Valentine?
           </>
         ) : (
           'Will you go on a date with me? 💕'
