@@ -22,7 +22,7 @@ export function GifCard() {
       className="gif-section bg-white/80 backdrop-blur-sm rounded-2xl sm:rounded-3xl p-4 sm:p-6 md:p-8 shadow-2xl w-full"
     >
       <ImageWithFallback
-        src="https://share.google/ivncseUT1ZmICnTGt"
+        src="https://static.vecteezy.com/system/resources/previews/005/267/262/non_2x/cute-set-of-doodles-for-valentine-s-day-glasses-of-champagne-love-cards-envelopes-with-hearts-arrows-and-others-hand-drawn-illustration-perfect-for-holiday-designs-stickers-decor-vector.jpg"
         alt="Romantic couple illustration"
         className="w-full aspect-square object-cover rounded-xl sm:rounded-2xl max-w-[280px] sm:max-w-[320px] md:max-w-[380px] mx-auto"
       />
